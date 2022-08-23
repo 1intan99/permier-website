@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://premiercrafty.my.id`,
     siteDescription: `Indonesian Market and Developers Team. Serving everything you need for your discord server. Starting Discord Bot Commissions, Server Builder, etc`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `https://cdn.discordapp.com/attachments/807821739895291914/1011651433168388199/IMG_20220415_0031172.jpg`,
     author: `Premier Crafty`
   },
   plugins: [
@@ -26,7 +26,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Premier Crafty`,
-        short_name: `Cara`,
+        short_name: `Crafty`,
         description: `Indonesian Market and Developers Team. Serving everything you need for your discord server. Starting Discord Bot Commissions, Server Builder, etc`,
         start_url: `/`,
         background_color: `#141821`,
